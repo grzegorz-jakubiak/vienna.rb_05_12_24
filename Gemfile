@@ -61,3 +61,9 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "grape", "~> 2.2"
+gem "grape-swagger"
+gem "faker"
+
+gem "rubocop", "~> 1.69"
