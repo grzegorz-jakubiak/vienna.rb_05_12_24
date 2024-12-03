@@ -1,10 +1,6 @@
 module API
   module V1
     class VHS < Grape::API
-        version "v1", using: :path
-        format :json
-        prefix :api
-
         resource :vhs do
           desc "Returns a random name?"
 
