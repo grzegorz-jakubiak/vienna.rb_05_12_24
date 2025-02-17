@@ -66,4 +66,4 @@ gem "grape", "~> 2.2"
 gem "grape-swagger"
 gem "faker"
 
-gem "rubocop", "~> 1.69"
+gem "rubocop", "~> 1.72"
